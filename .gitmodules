@@ -1,3 +1,0 @@
-[submodule "sysapi"]
-	path = sysapi
-	url = git@github.com:bremedios/sysapi.git
